@@ -35,6 +35,7 @@ Sobre el criterio de aceptación, definimos escenarios de prueba:
 2. La página cargará en 3 segundos o menos (Performance).
 ### 4. ¿Qué es TDD?
 Es una metodología de desarrollo de software que se basa en desarrollar en base a las pruebas (generalmente unitarias), como bien indica su nombre "Test Driven Development". Más concretamente, propone desarrollar casos de prueba iniciales antes de empezar a codear, proceso durante el cual solo se modificará el código si alguna de las pruebas falla. El siguiente diagrama de flujo ilustra el proceso a seguir cuando se desarrolla utilizando esta metodología:
+
 ![ProcesoTDD](https://3fxtqy18kygf3on3bu39kh93-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/Screenshot-2020-12-31-at-4.02.29-PM.png)
 
 Imagen tomada desde la web https://www.browserstack.com/guide/what-is-test-driven-development
