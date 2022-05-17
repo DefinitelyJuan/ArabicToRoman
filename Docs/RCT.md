@@ -46,7 +46,7 @@ The program must be able to run on Windows, Linux and MacOS machines with Python
 ##### **UT1-3-3**
 | Objective                                  | Input | Expected Result |
 |--------------------------------------------|-------|-----------------|
-| Check if the adition property is fulfilled | 12    | IX              |
+| Check if the adition property is fulfilled | 12    | XII             |
 ##### **UT1-3-4**
 | Objective                                                               | Input | Expected Result |
 |-------------------------------------------------------------------------|-------|-----------------|
