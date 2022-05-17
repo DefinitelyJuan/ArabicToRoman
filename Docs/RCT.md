@@ -25,7 +25,7 @@ The program must be able to run on Windows, Linux and MacOS machines with Python
 
 | Objective                                  | Input | Expected Result                                     |
 |--------------------------------------------|-------|-----------------------------------------------------|
-| Check   result after entering empty string |       | Prompt user that the entered input   not an integer |
+| Check   result after entering empty string |       | False                                               |
 
 ##### **UT1-2-1**
 | Objective                                                    | Input | Expected Result |
