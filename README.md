@@ -1,3 +1,4 @@
+## General information
 - Author: Juan Avila, 1100378
 - Subject: Tendencias en desarrollo de software (Lab), IDS347L 
 
