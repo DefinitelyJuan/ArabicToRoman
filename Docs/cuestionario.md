@@ -63,9 +63,9 @@ Una arquitectura xUnit posee los siguientes componentes:
 - El unit testing es un gran contribuidor al aseguramiento de la calidad, pues permite probar el código constantemente.
 - El unit testing puede reducir costos del desarrollo, gracias a la anteriormente mencionada ventaja de la detección temprana de bugs.
 ### 10. Cree un documento donde se listen los Requerimientos, Criterios de Aceptación y Casos de Prueba para la aplicación de conversión arábigo-romano
-[RCT](https://github.com/DefinitelyJuan/ArabicToRoman/blob/main/Docs/RCT.md)
+[Requerimientos, Criterios de Aceptación y Casos de Prueba](https://github.com/DefinitelyJuan/ArabicToRoman/blob/main/Docs/RCT.md)
 ### 11. Utilizando el lenguaje de su preferencia cree cinco o más casos de prueba unitarios automatizados utilizando un framework de automatización de pruebas para el algoritmo en cuestión
-[test folder](https://github.com/DefinitelyJuan/ArabicToRoman/blob/main/Tests)
+[Carpeta con las pruebas unitarias](https://github.com/DefinitelyJuan/ArabicToRoman/blob/main/Tests)
 
 ## Referencias
 https://lorenzosolano.com/what-is-coding-dojo/
