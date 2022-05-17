@@ -1,7 +1,4 @@
 #Function that takes an arabic number and returns its roman equivalent
-from numpy import intp
-
-
 def getRoman(arabic):
     arabics = [1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1]
     romans =  ["M", "CM", "D" , "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"]

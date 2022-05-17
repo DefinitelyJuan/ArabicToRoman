@@ -4,4 +4,4 @@ import unittest
 
 class intValTest (unittest.TestCase):
     def testEmpty(self):
-        self.assertEqual(isInteger(""),"")
+        self.assertEqual(isInteger(""),False)

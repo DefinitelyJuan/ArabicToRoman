@@ -9,5 +9,7 @@ class conversionTest (unittest.TestCase):
     def testProperties(self):
         self.assertEqual(getRoman(4),"IV")
         self.assertEqual(getRoman(9),"IX")
-        self.assertEqual(getRoman(0),"")
-        self.assertEqual(getRoman(0),"")
+        self.assertEqual(getRoman(12),"XII")
+        self.assertEqual(getRoman(19),"XIX")
+        self.assertEqual(getRoman(2356),"MMCCCLVI")
+
