@@ -1,5 +1,5 @@
-Author: Juan Avila, 1100378
-Subject: Tendencias en desarrollo de software (Lab), IDS347L 
+- Author: Juan Avila, 1100378
+- Subject: Tendencias en desarrollo de software (Lab), IDS347L 
 
 ## Project information
 You should have **Python 3.7.8 or another compatible Python version** in order to use this application.
