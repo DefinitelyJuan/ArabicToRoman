@@ -35,6 +35,7 @@ Sobre el criterio de aceptación, definimos escenarios de prueba:
 2. La página cargará en 3 segundos o menos (Performance).
 ### 4. ¿Qué es TDD?
 Es una metodología de desarrollo de software que se basa en desarrollar en base a las pruebas (generalmente unitarias), como bien indica su nombre "Test Driven Development". Más concretamente, propone desarrollar casos de prueba iniciales antes de empezar a codear, proceso durante el cual solo se modificará el código si alguna de las pruebas falla. El siguiente diagrama de flujo ilustra el proceso a seguir cuando se desarrolla utilizando esta metodología:
+
 ![ProcesoTDD](https://3fxtqy18kygf3on3bu39kh93-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/Screenshot-2020-12-31-at-4.02.29-PM.png)
 
 Imagen tomada desde la web https://www.browserstack.com/guide/what-is-test-driven-development
@@ -63,9 +64,9 @@ Una arquitectura xUnit posee los siguientes componentes:
 - El unit testing es un gran contribuidor al aseguramiento de la calidad, pues permite probar el código constantemente.
 - El unit testing puede reducir costos del desarrollo, gracias a la anteriormente mencionada ventaja de la detección temprana de bugs.
 ### 10. Cree un documento donde se listen los Requerimientos, Criterios de Aceptación y Casos de Prueba para la aplicación de conversión arábigo-romano
-[RCT](https://github.com/DefinitelyJuan/ArabicToRoman/blob/main/Docs/RCT.md)
+[Requerimientos, Criterios de Aceptación y Casos de Prueba](https://github.com/DefinitelyJuan/ArabicToRoman/blob/main/Docs/RCT.md)
 ### 11. Utilizando el lenguaje de su preferencia cree cinco o más casos de prueba unitarios automatizados utilizando un framework de automatización de pruebas para el algoritmo en cuestión
-[test folder](https://github.com/DefinitelyJuan/ArabicToRoman/blob/main/Tests)
+[Carpeta con las pruebas unitarias](https://github.com/DefinitelyJuan/ArabicToRoman/blob/main/Tests)
 
 ## Referencias
 https://lorenzosolano.com/what-is-coding-dojo/
